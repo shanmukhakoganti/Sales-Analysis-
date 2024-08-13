@@ -1,5 +1,15 @@
 # Sales-Analysis-
 
+plot 1:
+
+![Screenshot 2024-08-13 at 1 16 13 PM](https://github.com/user-attachments/assets/ab4facea-5a0f-41f9-b24a-5c5678cbc13d)
+
+The parallel coordinates plot allowed us for analyzing multidimensional numerical data to discern patterns and relationships. This type of plot is particularly useful in identifying how variables such as quantity, price, time of purchase (month, day, hour), and revenue are interrelated in a dataset.
+
+Each line in the plot represents a transaction record, allowing you to visually inspect the relationship between different attributes and how they affect the revenue. The color gradient, which represents revenue, further enhances the visualization by providing an immediate visual cue on how revenue changes with different combinations of the other parameters.
+
+The plot effectively highlights trends and anomalies, such as periods with high sales volume or price points that lead to higher revenue. By filtering and sampling the data, you ensure that the visualization remains readable and focuses on the most relevant data. The use of color to represent revenue helps in quickly identifying which combinations of quantity, price, and purchase time lead to higher or lower revenues, making it a valuable tool for business decision-making, particularly in optimizing sales strategies and inventory management.
+
 Plot 2: 
 
 ![Screenshot 2024-08-13 at 1 09 56 PM](https://github.com/user-attachments/assets/b7e0e676-ffe2-4270-b454-fe008731d198)
